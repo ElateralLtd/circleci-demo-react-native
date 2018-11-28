@@ -25,7 +25,7 @@ and clicking **Product** -> **Run**.
 To run tests, either select **Product** -> **Test** in Xcode, or run
 `bundle exec fastlane test` in the command line inside the `ios`
 directory.
-
+ 
 ### Running the Android app in the Android emulator.
 
 1. Run `bundle install` in the `android` directory to install all
